@@ -6,7 +6,7 @@ game_type = "eshop"
 
 [[releases]]
 title = "00040000000ED400"
-region = "all"
+region = "EUR"
 release_date = "2013-08-07"
 
 [[testcases]]
